@@ -31,6 +31,27 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 
 ---
 
+## Academic Experience
+
+### Research and Development Intern  
+**RIKEN, Kobe, Japan** (2025)  
+- Conducted R&D from January 10 to March 24, 2025.  
+- Focused on data compression with High-Performance Computing (HPC).
+
+### Research Assistant  
+**Nile University** (2024 – Present)  
+- Conducting research on Large Language Models (LLMs).  
+- Managing server rooms and workstations to support computational experiments.  
+
+### Teaching Assistant and Researcher  
+**Nile University** (2023 – 2024)  
+- Taught courses in Artificial Intelligence, including Machine Intelligence, Computer Vision, and 3D Computer Graphics.  
+- Assisted in quality accreditation activities at Nile University.  
+- Automated administrative tasks to improve efficiency.  
+- Managed server rooms and workstations effectively.  
+
+
+---
 ## Key Publications
 
 ### Papers
